@@ -10,8 +10,9 @@ checker "revanced/revanced-patches" "revanced"
 #################################################
 
 # Download requirements
-dl_gh "revanced-patches revanced-cli revanced-integrations" "revanced" "latest"
-
+dl_gh "revanced-patches" "revanced" "v2.191.0-dev.9"
+dl_gh "revanced-cli" "revanced" "latest"
+dl_gh "revanced-integrations" "revanced" "v0.118.0-dev.9"
 #################################################
 
 # Patch YouTube:
