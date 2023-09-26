@@ -10,9 +10,9 @@ source ./src/build/utils.sh
 #################################################
 
 # Download requirements
-dl_gh "revanced-patches" "revanced" "v2.191.0-dev.13"
-dl_gh "revanced-cli" "revanced" "v4.0.0-dev.2"
-dl_gh "revanced-integrations" "revanced" "v0.118.0-dev.9"
+dl_gh "revanced-patches" "revanced" "v2.191.0-dev.12"
+dl_gh "revanced-cli" "revanced" "lastest"
+dl_gh "revanced-integrations" "revanced" "v0.118.0-dev.8"
 #################################################
 
 # Patch YouTube:
